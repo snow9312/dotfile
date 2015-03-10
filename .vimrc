@@ -1,6 +1,6 @@
 set nocompatible        " Must be first line
 filetype off "require by Vundle
-"git test
+
 "--------------------------------------------------------------------------
 " Vundle & Plugins settings
 "--------------------------------------------------------------------------
